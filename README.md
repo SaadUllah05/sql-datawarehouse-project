@@ -92,11 +92,11 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm ""Saad Ullah"", a Data Analyst and Business Intelligence Developer passionate about transforming raw data into meaningful insights and building interactive dashboards that empower better decision-making.
+Hi there! I'm **Saad Ullah**, a Data Analyst and Business Intelligence Developer passionate about transforming raw data into meaningful insights and building interactive dashboards that support better decision-making.
 
-Through my YouTube channel and GitHub, I share practical tutorials, real-world projects, and best practices in SQL, Power BI, DAX, Power Query, and Data Analytics to help aspiring and experienced data professionals enhance their skills.
+Through my GitHub, I document my learning journey by sharing practical projects, reusable solutions, and best practices in SQL, Power BI, DAX, Power Query, and Data Analytics. My goal is to build a portfolio of real-world analytics projects while continuously improving my skills.
 
-I'm always eager to learn, build, and contribute to the data community. If you're passionate about data or just beginning your analytics journey, let's connect!
+I'm always exploring new technologies, solving data challenges, and building projects that turn data into actionable insights. Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or exchange ideas.
 
 Let's stay in touch! Feel free to connect with me on the following platform:
 
