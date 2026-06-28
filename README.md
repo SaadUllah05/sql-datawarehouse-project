@@ -100,4 +100,4 @@ I'm always exploring new technologies, solving data challenges, and building pro
 
 Let's stay in touch! Feel free to connect with me on the following platform:
 
-[![LinkedIn](https://www.linkedin.com/in/saadullah-shahid-a522b0217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadullah-shahid-a522b0217/)
